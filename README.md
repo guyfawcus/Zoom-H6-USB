@@ -1,3 +1,11 @@
+Zoom-H6-USB
+-----------
+This repo contains the lsusb output for the 6 different USB modes of the Zoom H6 Handy Recorder
+
+* [Wikidata item (Q81525088)](https://www.wikidata.org/wiki/Q81525088)
+* [Zoom VID (1686)](https://usb-ids.gowdy.us/read/UD/1686)
+* [Official website](https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder)
+
 ```
 0.txt = 'USB' -> 'SD Card Reader':                                                      1686:01c0
 
